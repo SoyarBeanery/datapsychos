@@ -4,3 +4,5 @@ tensorflow
 scikit-learn
 plotly-express
 jupyter
+Pillow
+tqdm
