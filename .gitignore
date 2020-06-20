@@ -2,6 +2,7 @@
 .DS_Store
 .python-version
 2.Product Detection/shopee-product-detection-dataset.zip
+2.Product Detection/resized_images.zip
 *.jpg
 *.tmp
 2.Product Detection/.vscode
